@@ -1,0 +1,7 @@
+Inversion recovery times:
+	k1.mat: 0.25 sec
+	k2.mat: 0.5 sec
+	K3.mat: 0.75 sec
+	k4.mat: 1 sec
+	K5.mat: 1.5 sec
+	k6.mat: 3 sec
