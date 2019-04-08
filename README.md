@@ -1,1 +1,1 @@
-# exercise-2019-04-09-lab1
+ A simple matlab exercise to look at MRI k-space data
